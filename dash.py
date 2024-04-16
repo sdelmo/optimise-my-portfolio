@@ -15,7 +15,6 @@ import quandl
 import matplotlib.pyplot as plt
 from scipy.optimize import minimize
 
-quandl.ApiConfig.api_key = "HH7cpwXn7qcsUFk9RbHp"
 
 
 def getData():
